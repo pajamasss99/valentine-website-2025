@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Gabbie",
+    valentineName: "99",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Payag ka ba talaga?",                                    // First interaction
+            text: "99",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "OO NAMAN ❤️"           // Secret hover message
+            secretAnswer: "99 ❤️"           // Secret hover message
         },
         second: {
-            text: "Percentage na payag ka?",                          // For the love meter
+            text: "99",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "HAPPY VALENTINES MANN",
-        message: "SEE U SA 28!!!!!!",
+        title: "99",
+        message: "99",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
