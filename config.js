@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "99",
+    valentineName: "Gabbie",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "99",                                    // First interaction
+            text: "WEHHHHHHHHH",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "99 ❤️"           // Secret hover message
+            secretAnswer: "OO NAMAN ❤️"           // Secret hover message
         },
         second: {
-            text: "99",                          // For the love meter
+            text: "gano ka ka-sure?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "99",
-        message: "99",
+        title: "Happy Valentines!!!!",
+        message: "see u soon!!!!!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
